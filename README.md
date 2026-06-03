@@ -1,7 +1,7 @@
 # ⚡ Analog Compute-in-Memory MAC Accelerator
 ### Micron Memory Awards 2026 — Device Design & Development
 
-[![Competition](https://img.shields.io/badge/Micron_Memory_Awards-2025-00A3E0?style=flat)](https://www.micron-mimoryawards.org.tw/en/)
+[![Competition](https://img.shields.io/badge/Micron_Memory_Awards-2026-00A3E0?style=flat)](https://www.micron-mimoryawards.org.tw/en/)
 [![Category](https://img.shields.io/badge/Category-Device_Design_%26_Development-green?style=flat)]()
 [![Technology](https://img.shields.io/badge/Technology-180nm_CMOS-orange?style=flat)]()
 [![Tool](https://img.shields.io/badge/Simulation-LTSpice-8B0000?style=flat)]()
@@ -155,7 +155,7 @@ The full competition report documents the theoretical analysis, circuit design, 
 | Field | Details |
 |---|---|
 | **Team ID** | 2526-C-0061 |
-| **Competition** | Micron Memory Awards 2025 |
+| **Competition** | Micron Memory Awards 2026 |
 | **Category** | Device Design & Development |
 | **File** | [`report/2526_C_0061-Memery.pdf`](report/2526_C_0061-Memery.pdf) |
 
@@ -189,8 +189,8 @@ Key references this work builds on:
 - 📹 **Demo Video:** [YouTube — Simulation Results](https://www.youtube.com/watch?v=S-6IQegoF5s)
 - 💻 **GitHub Repository:** [SyntaxSid/Analog-Compute-In-Memory-MAC-Accelerator](https://github.com/SyntaxSid/Analog-Compute-In-Memory-MAC-Accelerator)
 - 📋 **Full Report:** [`report/2526_C_0061-Memery.pdf`](report/2526_C_0061-Memery.pdf)
-- 🏆 **Competition:** [Micron Memory Awards 2025](https://www.micron-mimoryawards.org.tw/en/)
+- 🏆 **Competition:** [Micron Memory Awards 2026](https://www.micron-mimoryawards.org.tw/en/)
 
 ---
 
-<p align="center">Made with ⚡ at IIT Guwahati · Micron Memory Awards 2025</p>
+<p align="center">Made with ⚡ at IIT Guwahati · Micron Memory Awards 2026</p>
