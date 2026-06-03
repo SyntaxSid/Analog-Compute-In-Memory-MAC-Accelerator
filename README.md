@@ -1,5 +1,5 @@
 # ⚡ Analog Compute-in-Memory MAC Accelerator
-### Micron Memory Awards 2025 — Device Design & Development
+### Micron Memory Awards 2026 — Device Design & Development
 
 [![Competition](https://img.shields.io/badge/Micron_Memory_Awards-2025-00A3E0?style=flat)](https://www.micron-mimoryawards.org.tw/en/)
 [![Category](https://img.shields.io/badge/Category-Device_Design_%26_Development-green?style=flat)]()
